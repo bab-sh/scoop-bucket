@@ -1,0 +1,21 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bab-sh/bab/releases/download/v0.0.5/bab_0.0.5_Windows_x86_64.zip",
+            "bin": [
+                "bab.exe"
+            ],
+            "hash": "3c7aa64afe3c0315624dc9753a8b64e445d89c11b50971426bddc172168006e8"
+        }
+    },
+    "homepage": "https://github.com/bab-sh/bab",
+    "license": "MIT",
+    "description": "A Simple Task Runner",
+    "shortcuts": [
+        [
+            "bab.exe",
+            "Bab CLI"
+        ]
+    ]
+}
