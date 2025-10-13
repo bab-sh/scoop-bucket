@@ -1,17 +1,17 @@
 {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bab-sh/bab/releases/download/v0.0.8/bab_0.0.8_Windows_x86_64.zip",
+            "url": "https://github.com/bab-sh/bab/releases/download/v0.0.9/bab_0.0.9_Windows_x86_64.zip",
             "bin": [
                 "bab.exe"
             ],
-            "hash": "370c4c32a3544ed2ca4129ff9dba534f0bb307f27f044a082d21fef33d8b4563"
+            "hash": "06df90eb2d0ecf9f60b991ebdfebb4ad6bee9265a198cd02c4b5a3efbabfcef0"
         }
     },
     "homepage": "https://github.com/bab-sh/bab",
     "license": "MIT",
-    "description": "A Simple Task Runner",
+    "description": "A modern task runner from simple to scaled",
     "shortcuts": [
         [
             "bab.exe",
