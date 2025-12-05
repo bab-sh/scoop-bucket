@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bab-sh/bab/releases/download/v0.3.1/bab_0.3.1_Windows_x86_64.zip",
+            "url": "https://github.com/bab-sh/bab/releases/download/v0.3.2/bab_0.3.2_Windows_x86_64.zip",
             "bin": [
                 "bab.exe"
             ],
-            "hash": "61b0022bc0044113515c43a41dfcea2707c1ef90c458ea10ce4b8d1414f27411"
+            "hash": "2dca2681ac600b4460fbc808c81bd6a91f5dead3ef67623603a451381cf4d6aa"
         }
     },
     "homepage": "https://github.com/bab-sh/bab",
