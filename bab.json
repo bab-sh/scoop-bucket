@@ -1,17 +1,17 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bab-sh/bab/releases/download/v0.5.2/bab_0.5.2_Windows_x86_64.zip",
+            "url": "https://github.com/bab-sh/bab/releases/download/v0.5.3/bab_0.5.3_Windows_x86_64.zip",
             "bin": [
                 "bab.exe"
             ],
-            "hash": "83cd04850626ec28a62328a8241baa6e88de6f4703dddfbd473596baf880b2bd"
+            "hash": "127feb2bb71a909ef3dfaaed33bc9f2bfbcf4acbe56c0dc078b6e3274a6acbfe"
         }
     },
     "homepage": "https://github.com/bab-sh/bab",
     "license": "MIT",
-    "description": "Custom commands for every project",
+    "description": "Task runner for defining project commands in YAML",
     "shortcuts": [
         [
             "bab.exe",
